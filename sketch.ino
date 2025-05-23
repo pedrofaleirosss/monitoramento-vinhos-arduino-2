@@ -430,7 +430,7 @@ void loop() {
         menu = 0;
         EEPROM.put(1, tempoEntreRegistros);
       }
-  },
+  }
 
   bool foraDosLimites = statusTemp != "OK" || statusUmi != "OK" || statusLuz != "OK";
 
