@@ -2,10 +2,25 @@
 # 🍷 Projeto CP2 – Vinheria Agnello (Edge Computing)
 
 Este projeto foi desenvolvido como continuação do desafio de monitoramento ambiental para a Vinheria Agnello, agora incluindo o controle de temperatura, umidade e funcionalidades avançadas de histórico.
+Projeto realizado para a matéria Edge Computing & Computer Sistems do curso de Engenharia de Software da FIAP.
 
 ## 🎯 Objetivo
 
 Monitorar e registrar em tempo real as condições do ambiente de armazenamento de vinhos (luminosidade, temperatura e umidade), com alertas visuais e sonoros, display de status em LCD, e registro de eventos críticos em memória EEPROM com controle de tempo e menu interativo via Serial Monitor.
+
+## 🔗 Link para Visualização
+
+Você pode visualizar o projeto no Wokwi pelo link abaixo:
+
+👉 [Visualizar Projeto no Wokwi](https://wokwi.com/projects/431607560733734913)
+
+## 🙋‍♂️ Integrantes
+
+- [Pedro Faleiros](https://github.com/pedrofaleirosss)
+- [Luan Felix](https://github.com/luansfff)
+- [João Lopes](https://github.com/Joaolopes1311)
+- [Felipe Campos](https://github.com/camp0s0s)
+- [Leandro Farias](https://github.com/leofkin)
 
 ---
 
@@ -104,16 +119,6 @@ Conforme o `libraries.txt`:
    - `1` para ver os registros atuais.
    - `2` para exibir o histórico completo da EEPROM.
    - `3` para alterar o tempo entre gravações.
-
----
-
-## 👨‍💻 Equipe
-
-- Pedro Faleiros
-- Luan Felix
-- João Lopes
-- Felipe Campos
-- Leandro Farias
 
 ---
 
