@@ -111,7 +111,7 @@ unsigned long ultimoLog = 0; // Guarda o tempo da última gravação
 // Exibe os registros gravados na EEPROM via Serial
 void historicoDados() {
   Serial.println("================= Histórico de Dados ===================");
-  for (int address = 5; address < endereco; address += 7) {
+  for (int address = 3; address < endereco; address += 7) {
     // Exemplo de leitura dos primeiros 6 bytes
     unsigned long timestamp;
     EEPROM.get(address, timestamp);
