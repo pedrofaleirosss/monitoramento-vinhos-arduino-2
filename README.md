@@ -13,6 +13,7 @@ Monitorar e registrar em tempo real as condições do ambiente de armazenamento 
 Você pode visualizar o projeto no Wokwi e no YouTube pelos links abaixo:
 
 👉 [Visualizar Projeto no Wokwi](https://wokwi.com/projects/431607560733734913)
+
 📺 [Visualizar Explicação do projeto no YouTube](https://youtu.be/YGZ9kiTDOAQ)
 
 ## 🙋‍♂️ Integrantes
