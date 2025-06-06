@@ -8,11 +8,12 @@ Projeto realizado para a matéria Edge Computing & Computer Sistems do curso de 
 
 Monitorar e registrar em tempo real as condições do ambiente de armazenamento de vinhos (luminosidade, temperatura e umidade), com alertas visuais e sonoros, display de status em LCD, e registro de eventos críticos em memória EEPROM com controle de tempo e menu interativo via Serial Monitor.
 
-## 🔗 Link para Visualização
+## 🔗 Links
 
-Você pode visualizar o projeto no Wokwi pelo link abaixo:
+Você pode visualizar o projeto no Wokwi e no YouTube pelos links abaixo:
 
 👉 [Visualizar Projeto no Wokwi](https://wokwi.com/projects/431607560733734913)
+📺 [Visualizar Explicação do projeto no YouTube](https://youtu.be/YGZ9kiTDOAQ)
 
 ## 🙋‍♂️ Integrantes
 
